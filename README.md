@@ -2,3 +2,5 @@
 hp
 hoge
 aaa
+staging
+develop
